@@ -1,3 +1,3 @@
 # Event-Scheduler-
 
-[Edit in StackBlitz next generation editor ⚡️](https://stackblitz.com/~/github.com/marcus-Codes/Event-Scheduler-)
+Built an event scheduler booking application allowing users to register for events via email as well as provide updates
